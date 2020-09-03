@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    background-color: black;
+    color:white;
+    font-size: 60px;
+    
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+li {
+    font-size: 40px;
+}
+ul {
+    border-style: dotted;
+    border-color: green
+}
